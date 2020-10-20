@@ -22,7 +22,7 @@
     "readdirp": "~3.4.0"
   },
   "optionalDependencies": {
-    "fsevents": "~2.1.2"
+    "fsevents": "https://github.com/fsevents/fsevents/archive/2.1.3.tar.gz"
   },
   "devDependencies": {
     "@types/node": "^13",
